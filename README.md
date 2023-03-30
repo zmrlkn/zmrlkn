@@ -1,7 +1,8 @@
 ### Hi I'am Zümra. Welcome to my github 👋
 
 
-[![<zalkan>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/zalkan?1337Badge=off&UM6P=off" alt="zalkan's 42 stats" /></a>
+
 <!--
 **zmrlkn/zmrlkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
