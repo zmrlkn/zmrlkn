@@ -1,7 +1,7 @@
 ### Hi I'am Zümra. Welcome to my github 👋
 
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/zalkan?1337Badge=off&UM6P=off" alt="zalkan's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/zalkan?1337Badge=off&UM6P=off" alt="zalkan's 42 stats" /></a>
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=zmrlkn&label=Profile%20Views&color=12&icon=5&pretty=false" />
