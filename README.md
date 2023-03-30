@@ -3,7 +3,9 @@
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/zalkan?1337Badge=off&UM6P=off" alt="zalkan's 42 stats" /></a>
 
-[![](https://visitcount.itsvg.in/api?id=zmrlkn&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=zmrlkn&label=Profile%20Views&color=12&icon=5&pretty=false" />
+</a>
 
 <!--
 **zmrlkn/zmrlkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
