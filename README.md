@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zümra Alkan</h1>
 <h3 align="center">A passionate software student from Turkey</h3>
 
-- 🔭 I’m currently working on **so_long** and **Dijital Oyun Fabrikası**
-
+- 🔭 I’m currently working on **so_long**
+- 👾 I’m currently program on **Dijital Oyun Fabrikası**
 - 🌱 I’m currently learning **c and python**
 
 <h3 align="left">Languages and Tools:</h3>
