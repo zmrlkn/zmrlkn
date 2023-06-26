@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software student from Turkey</h3>
 
 - 🔭 I’m currently working on **so_long**
-- 👾 I’m currently learning program **Dijital Oyun Fabrikası**
+- 👾 I am currently training in the **Dijital Oyun Fabrikası** program
 - 🌱 I’m currently learning **c and python**
 
 <h3 align="left">Languages and Tools:</h3>
