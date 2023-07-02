@@ -5,18 +5,6 @@
 - 👾 I am currently training in the **Dijital Oyun Fabrikası** program
 - 🌱 I’m currently learning **c , c# , python and unity**
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zmrlkn&show_icons=true&locale=en" alt="zmrlkn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zmrlkn&" alt="zmrlkn" /></p>
-
-
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/zalkan?1337Badge=off&UM6P=off" alt="zalkan's 42 stats" /></a>
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=zmrlkn&label=Profile%20Views&color=12&icon=5&pretty=false" />
-</a>
-
 <!--
 **zmrlkn/zmrlkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
