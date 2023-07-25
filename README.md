@@ -5,6 +5,10 @@
 - 👾 I am currently training in the **Dijital Oyun Fabrikası** program
 - 🌱 I’m currently learning **c , c# , python and unity**
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=zmrlkn&label=Profile%20Views&color=10&icon=7&pretty=true" />
+</a>
+
 <!--
 **zmrlkn/zmrlkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
