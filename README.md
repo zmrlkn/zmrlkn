@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zümra Alkan</h1>
 <h3 align="center">A passionate software student from Turkey</h3>
 
-- 🔭 I’m currently working on **so_long**
+- 🔭 I’m currently working on **Cat_in_love**
 - 👾 I am currently training in the **Dijital Oyun Fabrikası** program
 - 🌱 I’m currently learning **c , c# , python and unity**
 
