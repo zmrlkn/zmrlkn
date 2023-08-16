@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zümra Alkan</h1>
 <h3 align="center">A passionate software student from Turkey</h3>
 
-- 🔭 I’m currently working on **Cat_in_love**
+
+- 🎮 I’m currently working on **Totoro_game**
 - 👾 I am currently training in the **Dijital Oyun Fabrikası** program
 - 🌱 I’m currently learning **c , c# , python and unity**
+- 📚 I'm studying at "Ecole 42 istanbul"
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=zmrlkn&label=Profile%20Views&color=10&icon=7&pretty=true" />
