@@ -3,7 +3,7 @@
 
 
 - 🎮 I’m currently working on **Totoro_game**
-- 👾 I am currently training in the **Dijital Oyun Fabrikası** program
+- 👾 I am currently training in the **Hi Kod 2.0 Mobil Uygulama Geliştirme** program
 - 🌱 I’m currently learning **c , c# , python and unity**
 - 📚 I'm studying at **Ecole 42 istanbul**
 
