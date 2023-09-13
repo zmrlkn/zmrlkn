@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software student from Turkey</h3>
 
 
-- 🎮 I’m currently working on **Totoro_game**
+- 🎮 I’m currently working on **Push_swap**
 - 👾 I am currently training in the **Hi Kod 2.0** program
 - 🌱 I’m currently learning **c , c# , python and unity**
 - 📚 I'm studying at **Ecole 42 istanbul**
