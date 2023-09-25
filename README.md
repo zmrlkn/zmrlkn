@@ -9,6 +9,7 @@
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/zalkan?1337Badge=off&UM6P=off" alt="zalkan's 42 stats" /></a>
 
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=zmrlkn&label=Profile%20Views&color=10&icon=7&pretty=true" />
 </a>
