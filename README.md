@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zümra Alkan</h1>
 <h3 align="center">A passionate software student from Turkey</h3>
 
-
-- 🎮 I’m currently working on **Push_swap**
 - 👾 I am currently training in the **Hi Kod 2.0** program
-- 🌱 I’m currently learning **c , c# , python and unity**
-- 📚 I'm studying at **Ecole 42 istanbul**
-
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/zalkan?1337Badge=off&UM6P=off" alt="zalkan's 42 stats" /></a>
-
+- 🌱 I am currently learning **c , c# , dart, python and unity**
+- 🎮 I am currently developing my own games with Unity.
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=zmrlkn&label=Profile%20Views&color=10&icon=7&pretty=true" />
