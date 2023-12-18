@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zümra Alkan</h1>
 <h3 align="center">A passionate software student from Turkey</h3>
 
-<iframe src="https://scratch.mit.edu/projects/940691586/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
 - 🌱 I am currently learning **c , c# , dart, python and unity**
 - 🎮 I am currently developing my own games with Unity.
 
