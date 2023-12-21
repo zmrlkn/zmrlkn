@@ -4,6 +4,8 @@
 - 🌱 I am currently learning **c , c# , dart, python and unity**
 - 🎮 I am currently developing my own games with Unity.
 
+- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=zmrlkn&label=Profile%20Views&color=10&icon=7&pretty=true" />
 </a>
