@@ -5,6 +5,8 @@
 - 🎮 I am currently developing my own games with Unity.
 
 - <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="zumralkan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/zumralkan?trk=profile-badge">Zümra Alkan</a></div>
+              
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=zmrlkn&label=Profile%20Views&color=10&icon=7&pretty=true" />
