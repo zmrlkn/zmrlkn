@@ -4,7 +4,6 @@
 - 🌱 I am currently learning **c , c# , dart, python and unity**
 - 🎮 I am currently developing my own games with Unity.
 
-- Linkedin <div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="zumralkan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/zumralkan?trk=profile-badge">Zümra Alkan</a></div>
 
 
 <a href="https://visitcount.itsvg.in">
