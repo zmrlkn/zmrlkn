@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zümra Alkan</h1>
 <h3 align="center">A passionate software student from Turkey</h3>
 
-- 🌱 I am currently learning **c , c# , dart, python and unity**
+- 🌱 I am currently learning **c , c#, python and unity**
 - 👾 I am currently studying at **Google Game and Application Academy**
 - 🎮 I am currently developing my own games with Unity.
 
